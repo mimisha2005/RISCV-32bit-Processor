@@ -1,0 +1,22 @@
+# Vivado temporary files
+.Xil/
+.cache/
+.hw/
+.runs/
+.sim/
+.gen/
+.ip_user_files/
+
+# Log and journal files
+*.jou
+*.log
+*.str
+*.wdb
+
+# Generated hardware files
+*.bit
+*.ltx
+
+# Operating system files
+.DS_Store
+Thumbs.db
